@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`63a9af5`](https://github.com/stdlib-js/stdlib/commit/63a9af59c1d602d79ae593bb98346e991b0f2874) - **docs:** update descriptions _(by Athan Reines)_
 -   [`aebc415`](https://github.com/stdlib-js/stdlib/commit/aebc415cd7b1579ef8935576eb4fae94a4277846) - **feat:** add `number/float16/base/assert/is-nan` [(#9625)](https://github.com/stdlib-js/stdlib/pull/9625) _(by Lokesh Ranjan)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Lokesh Ranjan
 
 </section>
